@@ -9,7 +9,10 @@ My product is on EDP.
 
 Skill/Skills:My Problem Solving Skill and Some Basic of coding.
 
-https://www.trusens.com/news/blog/20-kitchen-gadgets-to-improve-your-cooking-experience/?srsltid=AfmBOoo2lUaDjfX2HWt7PtSYaxby_YBzb2zLN8GGzPBiV0pUIkjqdTKB
+Link:https://www.trusens.com/news/blog/20-kitchen-gadgets-to-improve-your-cooking-experience/?srsltid=AfmBOoo2lUaDjfX2HWt7PtSYaxby_YBzb2zLN8GGzPBiV0pUIkjqdTKB
+
+Link:https://www.theverge.com/24087703/smart-home-kitchen-appliances
+
 [Next](entry02.md)
 
 [Home](../README.md)
