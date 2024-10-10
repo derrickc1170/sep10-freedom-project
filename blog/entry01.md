@@ -4,7 +4,7 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 
 My backup ideas was Food and Technology. 
 
-My product is on working process and soon it will come out.
+My product is on EDP.
 
 
 Skill/Skills:My Problem Solving Skill and Some Basic of coding.
