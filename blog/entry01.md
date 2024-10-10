@@ -5,8 +5,9 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 My backup ideas was Food and Technology. 
 
 My product is on working process and soon it will come out.
-S
-kill/Skills:My Problem Solving Skill and Some Basic of coding.
+
+
+Skill/Skills:My Problem Solving Skill and Some Basic of coding.
 
 https://www.trusens.com/news/blog/20-kitchen-gadgets-to-improve-your-cooking-experience/?srsltid=AfmBOoo2lUaDjfX2HWt7PtSYaxby_YBzb2zLN8GGzPBiV0pUIkjqdTKB
 [Next](entry02.md)
