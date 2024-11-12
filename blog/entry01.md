@@ -7,7 +7,7 @@ My backup ideas was Food and Technology.
 My product is on EDP.
 
 
-Skill/Skills:My Problem Solving Skill and Some Basic of coding.
+Skill/Skills:My Problem Solving Skill and Communication.
 
 Link:https://www.trusens.com/news/blog/20-kitchen-gadgets-to-improve-your-cooking-experience/?srsltid=AfmBOoo2lUaDjfX2HWt7PtSYaxby_YBzb2zLN8GGzPBiV0pUIkjqdTKB
 
