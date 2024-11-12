@@ -14,8 +14,8 @@ Cooking is useful tool for people who need to eat.Multiple Technology help cooki
 
 Some skills that I’ve learned from working on this blog are **Researching** and **Communication**  
 
-#### Researching 
-I used Google to explore different technologies in a variety of career fields.It allow us to gather information of our technology
+#### Problem Solving Skill 
+I used this skill to allow me to gather a plan which help solve our problem.It can efficiently save time for us if we are stuck.
 
 #### Communication 
 I've also improved my communication skills.When I am in a project,I ask my partner what we are going to do.Then We put in file called plan which help us to finish the project efficiently.
