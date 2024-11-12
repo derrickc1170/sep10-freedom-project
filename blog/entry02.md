@@ -3,18 +3,19 @@
 
 <h1>Topic:Cooking</h1>
 Topic I decide on was cooking because I really enjoy cooking food and want make something that can help people to be efficient on cooking.
-## Engineering Design Process
-
-I am currently in the first stage of the engineering design process, where the main goal is to define the problem for cooking.
-Cooking is useful tool for people who need to eat.Multiple Technology help cooking process easier and allow us to make new food.Mixer can help efficently mix the food 
 https://chefiq.com/blogs/blog/the-evolution-of-cooking-techniques-with-technology?srsltid=AfmBOorQKiX4FWKXYlliZ8-DcRKKTnU_rrNJmVpC0Y_h5Vfbskc3NW7N
 https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable
+
+#### Engineering Design Process
+
+I am currently in the first stage of the engineering design process, where the main goal is to define the problem for cooking.
+Cooking is useful tool for people who need to eat.Multiple Technology help cooking process easier and allow us to make new food.Mixer can help efficently mix the food.
 ## Skills
 
 Some skills that I’ve learned from working on this blog are **Researching** and **Communication**  
 
 #### Researching 
-
+I used Google to explore different technologies in a variety of career fields.It allow us to gather information of our technology
 
 #### Communication 
 I've also improved my communication skills.When I am in a project,I ask my partner what we are going to do.Then We put in file called plan which help us to finish the project efficiently.
