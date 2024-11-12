@@ -11,12 +11,13 @@ https://chefiq.com/blogs/blog/the-evolution-of-cooking-techniques-with-technolog
 https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable
 ## Skills
 
-Some skills that I’ve learned from working on this blog are **Researching** and 
+Some skills that I’ve learned from working on this blog are **Researching** and **Communication**  
 
 #### Researching 
 
 
 #### Communication 
+I've also improved my communication skills.When I am in a project,I ask my partner what we are going to do.Then We put in file called plan which help us to finish the project efficiently.
 
 
 
