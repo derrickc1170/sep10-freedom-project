@@ -12,7 +12,7 @@ I am currently in the first stage of the engineering design process, where the m
 Cooking is useful tool for people who need to eat.Multiple Technology help cooking process easier and allow us to make new food.Mixer can help efficently mix the food.
 ## Skills
 
-Some skills that I’ve learned from working on this blog are **Researching** and **Communication**  
+Some skills that I’ve learned from working on this blog are **Problem Solving Skill ** and **Communication**  
 
 #### Problem Solving Skill 
 I used this skill to allow me to gather a plan which help solve our problem.It can efficiently save time for us if we are stuck.
