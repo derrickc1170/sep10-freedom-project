@@ -2,7 +2,7 @@
 ##### 11/4/24
 
 <h1>Topic:Cooking</h1>
-
+Topic I decide on was cooking because I really enjoy cooking food and want make something that can help people to be efficient on cooking.
 ## Engineering Design Process
 
 I am currently in the first stage of the engineering design process, where the main goal is to define the problem for cooking.
