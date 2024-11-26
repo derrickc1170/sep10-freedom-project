@@ -6,7 +6,7 @@
 ## Name: Derrick Chen
 ## Course: SEP
 ## Period: 8
-## Concept:AVD Postioning 
+## Concept: AVD Postioning 
 
 ### Context
 In this SEP course,We started to learn about Postioning which 
