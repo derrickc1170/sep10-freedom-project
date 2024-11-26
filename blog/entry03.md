@@ -14,7 +14,7 @@ In this SEP course, We started to learn about Postioning which it allow us posit
 * Using properties like top or bottom and left or right  Ex: `.absolute {
 position: absolute;
 }`
-
+* Showing due to higher value Ex:`show due to higher value.`
 
 [Previous](entry02.md) | [Next](entry04.md)
 
