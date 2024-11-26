@@ -9,7 +9,12 @@
 ## Concept: AVD Postioning 
 
 ### Context
-In this SEP course,We started to learn about Postioning which 
+In this SEP course, We started to learn about Postioning which it allow us position images, paragraphs, headings, etc.
+* Moving text to left of right  Ex: `float:right;`
+* Using properties like top or bottom and left or right  Ex: `.absolute {
+position: absolute;
+}`
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
