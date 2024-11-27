@@ -1,7 +1,7 @@
 # Entry 3
 ##### 11/26/24
 
-# Process Writeup
+#  AVD Writeup
 
 ## Name: Derrick Chen
 ## Course: SEP
