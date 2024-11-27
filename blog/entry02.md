@@ -4,25 +4,22 @@
 <h1>Topic:Cooking</h1>
 Topic I decide on was cooking because I really enjoy cooking food and want make something that can help people to be efficient on cooking.
 
-<a href="https://chefiq.com/blogs/blog/the-evolution-of-cooking-techniques-with-technology?srsltid=AfmBOorQKiX4FWKXYlliZ8-DcRKKTnU_rrNJmVpC0Y_h5Vfbskc3NW7N">Source 1</a><br>
+<a href="https://www.linkedin.com/pulse/non-engineers-ultimate-cooking-guide-software-aman-y-agarwal">Source 1</a><br>
 
 <a href="https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable">Source 2</a><br>
 #### Context
-Cooking technology has brought a lot of benefits to society, ranging from home kitchens to commercial food production. Advances in cooking equipment, appliances, and techniques have had a deep impact on many aspects of our lives.
+I search up software and hardware technologies for cooking which I click a linke which we get Touchscreen Point of Sale Terminals as what people cooking for restaurants.This is important because they use this techologies to get order and pay for cash.
 #### Engineering Design Process
 
-I am currently in the researching stage of the engineering design process, where the main goal is have people nourish themselves through cooking food. Technology simplifies the work of cooking, and helps us in the creation of different dishes. For example, mixers simplify mixing in less time and energy expenditure.
+I am currently in the researching stage of the engineering design process, where the  goal is to research what porblem they have with cooking and how we can help that.
 ## Skills/Skill
 
-Some skills that I’ve learned from working on this blog are **Problem Solving Skill ** and **Communication**  
+Some skills that I’ve learned from working on this blog are **Problem Solving Skill ** and **Creativity **
 
 #### Problem Solving Skill 
-I used this skill to allow me to gather a plan which help solve our problem.It can efficiently save time for us if we are stuck.
-
-#### Communication 
-I've also improved my communication skills.When I am in a project,I ask my partner what we are going to do.Then We put in file called plan which help us to finish the project efficiently.
-
-
+I applied this skill to try new ideas where we can solve this which if implemented, will save time and keep us on course, particularly when challenges arise.
+#### Creativity 
+My creativity come out by providing examples and suggesting how I can apply them to my project, write-up, blog, and other content.
 
 
 ## Next steps
