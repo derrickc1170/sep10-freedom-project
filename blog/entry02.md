@@ -7,6 +7,7 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 <a href="https://chefiq.com/blogs/blog/the-evolution-of-cooking-techniques-with-technology?srsltid=AfmBOorQKiX4FWKXYlliZ8-DcRKKTnU_rrNJmVpC0Y_h5Vfbskc3NW7N">Source 1</a><br>
 
 <a href="https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable">Source 2</a><br>
+#### Context
 
 #### Engineering Design Process
 
