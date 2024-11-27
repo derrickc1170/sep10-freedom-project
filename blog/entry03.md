@@ -15,7 +15,7 @@ In this SEP course, We started to learn about Postioning which it allow us posit
 position: absolute;
 }`
 * Showing due to higher value Ex:`z-index: 1`
-
+It is mostly helpful for your website which it allow use move text and image.
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
