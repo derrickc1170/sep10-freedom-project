@@ -11,7 +11,7 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 Cooking technology has brought a lot of benefits to society, ranging from home kitchens to commercial food production. Advances in cooking equipment, appliances, and techniques have had a deep impact on many aspects of our lives.
 #### Engineering Design Process
 
-I am currently in the second stage of the engineering design process, where the main goal is have people nourish themselves through cooking food. Technology simplifies the work of cooking, and helps us in the creation of different dishes. For example, mixers simplify mixing in less time and energy expenditure.
+I am currently in the researching stage of the engineering design process, where the main goal is have people nourish themselves through cooking food. Technology simplifies the work of cooking, and helps us in the creation of different dishes. For example, mixers simplify mixing in less time and energy expenditure.
 ## Skills/Skill
 
 Some skills that I’ve learned from working on this blog are **Problem Solving Skill ** and **Communication**  
