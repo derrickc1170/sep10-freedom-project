@@ -8,7 +8,7 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 
 <a href="https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable">Source 2</a><br>
 #### Context
-
+Cooking technology has brought a lot of benefits to society, ranging from home kitchens to commercial food production. Advances in cooking equipment, appliances, and techniques have had a deep impact on many aspects of our lives.
 #### Engineering Design Process
 
 I am currently in the second stage of the engineering design process, where the main goal is have people nourish themselves through cooking food. Technology simplifies the work of cooking, and helps us in the creation of different dishes. For example, mixers simplify mixing in less time and energy expenditure.
