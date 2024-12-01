@@ -20,15 +20,17 @@ For Hardware,I search "cooking technology hardware" from google. The first artic
 
 <a href="https://www.lowes.com/n/buying-guide/kitchen-gadgets-that-cook-fast">These 9 Kitchen Gadgets Get Dinner on The Table Fast Link </a><br>
 ### Engineering Design Process
-I am currently in the researching stage of the engineering design process, where the goal is to research what porblem they have with cooking and how we can help that.
+I am currently in the researching stage of the engineering design process, where the goal is to research what porblem they have with cooking and how we can help that. 
 ### Skills/Skill
 
-Some skills that I’ve learned from working on this blog are **Problem Solving Skill** and **Creativity**
+Some skills that I’ve learned from working on this blog are **Problem Solving Skill** and **Googling**
 
 #### Problem Solving Skill 
-We can applied this skill by using creativity to try new ideas for solution.It allow us adjust to new situations which cause us toanalyze situations in order to make great decision.Our Critical Thinking allow us to save time and be effienectly about our task.
-#### Google 
+Problem solving skill is the core of engineering design process. This skill helps us think of new and creavie ways to solve problems. For example, when it comes to cooking, we need to understand challenges people face: like not having enough time, struggling with certain tasks, or having problem with kitchen tools or equipements. Once we know the issues, we can come up the solution faster.  
+
+#### Googling 
 Googling can help us to save time. When we know what to search, we can just simply type the key words and the results pop out right away. It cut off so many unnecessary steps. Goolging is also a very good learning tool. The more we research and stroll down, more ideas, more concepts and more perspectives we can see and learn from them. Google is a direct portal to collect all the knowledge from the world by combing all the articles, videos, books, news, and many different other forms of information. I think Google has an answer for almost everything. 
+When I am working on this project, I used google a lot because it helps me gather information and answers quicker, such as cooking challenges, kitchen equipments, and user preferences. It is a tool that allows us to go deeper on our topics by reading articles and watching videos. The more I researched, the more different ideas I learn. 
 
 ## Next steps
 
