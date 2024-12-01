@@ -13,7 +13,7 @@ I search up software and hardware technologies for cooking which I click a link 
 ### App
 I search up "cooking technology app" which I see the first thing that pop up was **Yummy**. It is a app where provides users recipes via recommendations and a search engine. **Yummy** can make use of your fridge that have food been there for long time. This app can give your suggestion or recipes based on what you pefer.
 
-<a href="https://www.yummly.com/">Yummy Link</a><br>
+<a href="https://www.yummly.com/">Yummly Link</a><br>
 ### Cooking Equipment
 For Hardware,I search "cooking technology hardware" that got me a list of Ovens,Stand mixers,Air fryers
 ### Engineering Design Process
