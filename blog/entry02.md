@@ -9,6 +9,10 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 <a href="https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable">Source 2</a><br>
 #### Context
 I search up software and hardware technologies for cooking which I click a linke which we get Touchscreen Point of Sale Terminals as what people cooking for restaurants.This is important because they use this techologies to get order and pay for cash.
+
+### App
+
+### Equipment
 #### Engineering Design Process
 
 I am currently in the researching stage of the engineering design process, where the  goal is to research what porblem they have with cooking and how we can help that.
