@@ -7,7 +7,7 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 <a href="https://www.linkedin.com/pulse/non-engineers-ultimate-cooking-guide-software-aman-y-agarwal">Source 1</a><br>
 
 <a href="https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable">Source 2</a><br>
-#### Context
+#### Content
 I search up software and hardware technologies for cooking which I click a link which we get Touchscreen Point of Sale Terminals as what people cooking for restaurants.This is important because they use this techologies to get order and pay for cash.
 
 ### App
