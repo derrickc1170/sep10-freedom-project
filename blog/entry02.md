@@ -8,26 +8,24 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 
 <a href="https://kansaslivingmagazine.com/articles/2020/03/25/amazing-ways-technology-can-make-cooking-more-enjoyable">Source 2</a><br>
 #### Context
-I search up software and hardware technologies for cooking which I click a linke which we get Touchscreen Point of Sale Terminals as what people cooking for restaurants.This is important because they use this techologies to get order and pay for cash.
+I search up software and hardware technologies for cooking which I click a link which we get Touchscreen Point of Sale Terminals as what people cooking for restaurants.This is important because they use this techologies to get order and pay for cash.
 
 ### App
 I search up "cooking technology app" which I see the first thing that pop up was **Yummy**. It is a app where provides users recipes via recommendations and a search engine. **Yummy** can make use of your fridge that have food been there for long time. This app can give your suggestion or recipes based on what you pefer.
+
 <a href="https://www.yummly.com/">Yummy Link</a><br>
-
-### Equipment
-
+### Cooking Equipment
+For Hardware,I search "cooking technology hardware" that got me a list of Ovens,Stand mixers,Air fryers
 ### Engineering Design Process
-
 I am currently in the researching stage of the engineering design process, where the  goal is to research what porblem they have with cooking and how we can help that.
 ### Skills/Skill
 
 Some skills that I’ve learned from working on this blog are **Problem Solving Skill** and **Creativity**
 
 #### Problem Solving Skill 
-I applied this skill to try new ideas where we can solve this which if implemented, will save time and keep us on course, particularly when challenges arise.
-#### Creativity 
-My creativity come out by providing examples and suggesting how I can apply them to my project, write-up, blog, and other content.
-
+We can applied this skill by using creativity to try new ideas for solution.It allow us adjust to new situations which cause us toanalyze situations in order to make great decision.Our Critical Thinking allow us to save time and be effienectly about our task.
+#### Google 
+Googling can help us to save time. When we know what to search, we can just simply type the key words and the results pop out right away. It cut off so many unnecessary steps. Goolging is also a very good learning tool. The more we research and stroll down, more ideas, more concepts and more perspectives we can see and learn from them. Google is a direct portal to collect all the knowledge from the world by combing all the articles, videos, books, news, and many different other forms of information. I think Google has an answer for almost everything. 
 
 ## Next steps
 
