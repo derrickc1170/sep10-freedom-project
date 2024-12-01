@@ -26,11 +26,11 @@ I am currently in the researching stage of the engineering design process, where
 Some skills that I’ve learned from working on this blog are **Problem Solving Skill** and **Googling**
 
 #### Problem Solving Skill 
-Problem solving skill is the core of engineering design process. This skill helps us think of new and creavie ways to solve problems. For example, when it comes to cooking, we need to understand challenges people face: like not having enough time, struggling with certain tasks, or having problem with kitchen tools or equipements. Once we know the issues, we can come up the solution faster.  
+Problem solving skill is the core of engineering design process. This skill helps us think of new and creavie ways to solve problems. For example, when it comes to cooking, we need to understand challenges people face: like not having enough time, struggling with certain tasks, or having problem with kitchen tools or equipment. Once we know the issues, we can come up the solution faster.  
 
 #### Googling 
 Googling can help us to save time. When we know what to search, we can just simply type the key words and the results pop out right away. It cut off so many unnecessary steps. Goolging is also a very good learning tool. The more we research and stroll down, more ideas, more concepts and more perspectives we can see and learn from them. Google is a direct portal to collect all the knowledge from the world by combing all the articles, videos, books, news, and many different other forms of information. I think Google has an answer for almost everything. 
-When I am working on this project, I used google a lot because it helps me gather information and answers quicker, such as cooking challenges, kitchen equipments, and user preferences. It is a tool that allows us to go deeper on our topics by reading articles and watching videos. The more I researched, the more different ideas I learn. 
+When I am working on a project, I used google a lot because it helps me gather information and answers quicker, such as cooking challenges, kitchen equipments, and user preferences. It is a tool that allows us to go deeper on our topics by reading articles and watching videos. The more I researched, the more different ideas I learned. 
 
 ## Next steps
 
