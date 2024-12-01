@@ -11,11 +11,12 @@ Topic I decide on was cooking because I really enjoy cooking food and want make 
 I search up software and hardware technologies for cooking which I click a link which we get Touchscreen Point of Sale Terminals as what people cooking for restaurants.This is important because they use this techologies to get order and pay for cash.
 
 ### App
-I search up "cooking technology app" which I see the first thing that pop up was **Yummly**. It is a app where provides users recipes via recommendations and a search engine. **Yummly** can make use of your fridge that have food been there for long time. This app can give your suggestion or recipes based on what you pefer.
+I search up "cooking technology app" which I see the first thing that pop up was **Yummly**. **Yummly** is a popular app and website which includes recipe discovery and meal planning. The recipes recommendations are generated based on the users' needs and taste. The recipes are sorted by meal type, cuisine, preparation time, ingredients. It also provides a detailed shopping list for easier shopping experience. When users are finished buying the food, they can simply follow the cooking instructions step by step. Some instructions also include video guides. In **Yummly**, users can choose either free or premium subscriptions. For users with premium subscriptions, they can enjoy more personalized recipe suggestions and other advance features. 
 
 <a href="https://www.yummly.com/">Yummly Link</a><br>
 ### Cooking Equipment
-For Hardware,I search "cooking technology hardware" that got me a list of Ovens,Stand mixers,Air fryers
+For Hardware,I search "cooking technology hardware" from google. The first article poped out was from Lowes. 
+<a href="[https://www.yummly.com/](https://www.lowes.com/n/buying-guide/kitchen-gadgets-that-cook-fast)">These 9 Kitchen Gadgets Get Dinner on The Table Fast Link </a><br>
 ### Engineering Design Process
 I am currently in the researching stage of the engineering design process, where the  goal is to research what porblem they have with cooking and how we can help that.
 ### Skills/Skill
