@@ -15,10 +15,12 @@ I search up "cooking technology app" which I see the first thing that pop up was
 
 <a href="https://www.yummly.com/">Yummly Link</a><br>
 ### Cooking Equipment
-For Hardware,I search "cooking technology hardware" from google. The first article poped out was from Lowes. 
-<a href="[https://www.yummly.com/](https://www.lowes.com/n/buying-guide/kitchen-gadgets-that-cook-fast)">These 9 Kitchen Gadgets Get Dinner on The Table Fast Link </a><br>
+For Hardware,I search "cooking technology hardware" from google. The first article poped out was from Lowes which called **These 9 Kitchen Gadgets Get Dinner on The Table Fast**. When I clicked on it, it showed air fryer, instant pot, toaster oven, food processor, slow-cooker, stand mixer, immersion blender, bread maker, chef's knife are the key options for cooking faster. 
+
+
+<a href="https://www.lowes.com/n/buying-guide/kitchen-gadgets-that-cook-fast">These 9 Kitchen Gadgets Get Dinner on The Table Fast Link </a><br>
 ### Engineering Design Process
-I am currently in the researching stage of the engineering design process, where the  goal is to research what porblem they have with cooking and how we can help that.
+I am currently in the researching stage of the engineering design process, where the goal is to research what porblem they have with cooking and how we can help that.
 ### Skills/Skill
 
 Some skills that I’ve learned from working on this blog are **Problem Solving Skill** and **Creativity**
