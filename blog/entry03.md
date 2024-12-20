@@ -9,8 +9,8 @@ In this Entry, I am finalizing my SEP10 Freedom Project Content which I can make
 I came up a item for people who was poor and need of nutritious.So I make New Cooking Technologies called ¨Recombinator¨.
 The Recombinator is a device that can recombine basic ingredients or molecules. It can customize food based on taste or nutritional needs, offering sustainable and waste-free solutions for feeding populations, especially in challenging environments like space.
 ## Using For Vacation 
-What if you were stuck in middle of nowhere,lazy to cooking anything,or too poor to get food.?Introducing ¨Printer Cooking Station¨!!
-Printer Cooking Station
+What if you were stuck in middle of nowhere,lazy to cooking anything,or too poor to get food.? Introducing ¨Printer Cooking Station¨!!
+Printer Cooking Station is cutting-edge device that uses 3D printing to simplify and customize meal preparation. It automates tasks like measuring, assembling, and presenting dishes, offering endless possibilities for creative and efficient cooking
 ## Fast Shopping
 Digital Item Website 
 
