@@ -16,7 +16,7 @@ Digital Item Website
 
 
 ## Engineering Design Process
-The Engineering design process that I am on 
+The Engineering design process that I am on is that I am working finishing all the content for the website.
 ## Takeaway
 
 [Previous](entry02.md) | [Next](entry04.md)
