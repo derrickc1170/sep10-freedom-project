@@ -16,7 +16,7 @@ Digital Item Website
 
 
 ## Engineering Design Process
-
+The Engineering design process that I am on 
 ## Takeaway
 
 [Previous](entry02.md) | [Next](entry04.md)
