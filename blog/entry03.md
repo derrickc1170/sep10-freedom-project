@@ -12,7 +12,7 @@ The Recombinator is a device that can recombine basic ingredients or molecules. 
 What if you were stuck in middle of nowhere,lazy to cooking anything,or too poor to get food.? Introducing ¨Printer Cooking Station¨!!
 Printer Cooking Station is cutting-edge device that uses 3D printing to simplify and customize meal preparation. It automates tasks like measuring, assembling, and presenting dishes, offering endless possibilities for creative and efficient cooking
 ## Fast Shopping
-Digital Item Website 
+Want any item that appear to you without wait for shipping? Digital Item Website allows users to spawn purchased items into compatible devices or applications, making digital content instantly accessible. With a user-friendly interface and secure transactions, it offers a seamless experience for exploring, acquiring, and utilizing digital content. 
 
 
 ## Engineering Design Process
