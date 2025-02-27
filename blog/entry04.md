@@ -11,7 +11,7 @@ I tinker with Aframe which I trying to make
 
 
 ## Engineering Design Process
-
+I’m currently finalizing all the content for the website as part of my engineering design process. This involves refining text, optimizing images, and ensuring a user-friendly layout to enhance the overall user experience and functionality.
 
 ## Skill 
 
