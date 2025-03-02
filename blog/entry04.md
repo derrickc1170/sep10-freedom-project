@@ -9,7 +9,7 @@ I've been tinkering with A-Frame to build my own 3D model. Through experimentati
 ## Source
 Pickcode Project: View the 3D model I created using A-Frame at Source 1.
 <a href="https://app.pickcode.io/project/cm6zffvpu32izkc1mi0nmn8ru">Source 1</a><br>
-YouTube Guide: I followed a comprehensive guide on YouTube which helped me get started. Check it out here.
+YouTube Guide: I followed a guide on YouTube which helped me get started. Check it out here.
 <a href="https://www.youtube.com/watch?v=P6sWX25VvxQ&list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce&index=4">Youtube</a><br>
 
 ## Engineering Design Process
