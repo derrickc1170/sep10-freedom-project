@@ -17,7 +17,7 @@
 
 ### 2/26/25:
 * Here Some Code that I make in my Model.
-  * <img src="./Aframe.png">
+  * <img src="./Aframe.png" alt="Code">
 
 
 <!-- 
