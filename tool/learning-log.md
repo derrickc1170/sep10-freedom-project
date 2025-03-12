@@ -4,7 +4,7 @@
 
 ---
 
-### 2/20/25:
+### 3/1/25:
 * Watch An <a href="https://www.youtube.com/watch?v=P6sWX25VvxQ&list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce&index=6">Aframe Video about Modeling.<a>
   * It was really helpful to understand what some of code do.
   * Make a pickcode testing out the model.
