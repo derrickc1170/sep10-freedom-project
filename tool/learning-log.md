@@ -38,9 +38,38 @@
 * Wondering what else I can create with this code? It's a good starting point for interactive experiences.
 * Next steps: I plan to experiment with more code snippets from Aframe.
 
+### 3/18/25
+* Creating camera but it have a rotating with camera and cur
+* You find this A-Frame's Official documentation which provide lot of example 
+a-scene>
+```html
+      <!-- Rotating Cube -->
+      <a-box id="cube" position="0 1.5 -3" rotation="0 45 0" color="#4CC3D9" 
+             animation="property: rotation; to: 0 405 0; dur: 5000; loop: true"></a-box>
 
+      <!-- Camera and Cursor -->
+      <a-camera>
+        <a-cursor></a-cursor>
+      </a-camera>
 
+      <!-- Button to Change Cube Color -->
+      <a-entity id="button" geometry="primitive: plane; height: 1; width: 2" position="0 0 -2" 
+                material="color: #FFC65D" text="value: Change Color; align: center; color: #FFFFFF"></a-entity>
+    </a-scene>
 
+    <script>
+      // Get the cube and button elements
+      const cube = document.querySelector('#cube');
+      const button = document.querySelector('#button');
+
+      // Add event listener for button click to change cube color
+      button.addEventListener('click', function () {
+        cube.setAttribute('color', '#'+Math.floor(Math.random()*16777215).toString(16)); // Random color
+      });
+    </script>
+```   
+*
+*
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
