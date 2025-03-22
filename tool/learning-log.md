@@ -39,9 +39,9 @@
 * Next steps: I plan to experiment with more code snippets from Aframe.
 
 ### 3/18/25
-* Creating camera but it have a rotating with camera and cur
+* Creating camera but it have a rotating with camera and turn color random
 * You find this A-Frame's Official documentation which provide lot of example 
-a-scene>
+[here](https://aframe.io/docs/1.7.0/introduction/)
 ```html
       <!-- Rotating Cube -->
       <a-box id="cube" position="0 1.5 -3" rotation="0 45 0" color="#4CC3D9" 
@@ -68,8 +68,10 @@ a-scene>
       });
     </script>
 ```   
-*
-*
+* Allow the camera to move while making it colorful.
+* I’ve been trying to add JavaScript to make it colorful, but it fails a lot of the time.
+* I wonder if I will use this in a game.
+* I’d like to try creating a scene that looks like a foggy forest.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
