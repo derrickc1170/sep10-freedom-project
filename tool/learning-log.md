@@ -39,38 +39,24 @@
 * Next steps: I plan to experiment with more code snippets from Aframe.
 
 ### 3/18/25
-* Creating camera but it have a rotating with camera and turn color random
+* Creating area where it illuminate the scene
 * You find this A-Frame's Official documentation which provide lot of example 
 [here](https://aframe.io/docs/1.7.0/introduction/)
 ```html
-      <!-- Rotating Cube -->
-      <a-box id="cube" position="0 1.5 -3" rotation="0 45 0" color="#4CC3D9" 
-             animation="property: rotation; to: 0 405 0; dur: 5000; loop: true"></a-box>
+<a-scene>
+      <!-- Simple box object -->
+      <a-box position="0 1 -5" color="#4CC3D9"></a-box>
 
-      <!-- Camera and Cursor -->
-      <a-camera>
-        <a-cursor></a-cursor>
-      </a-camera>
+      <!-- Lights to illuminate the scene -->
+      <a-light type="directional" position="2 4 -3" intensity="1"></a-light>
 
-      <!-- Button to Change Cube Color -->
-      <a-entity id="button" geometry="primitive: plane; height: 1; width: 2" position="0 0 -2" 
-                material="color: #FFC65D" text="value: Change Color; align: center; color: #FFFFFF"></a-entity>
+      <!-- Ground -->
+      <a-plane rotation="-90 0 0" position="0 0 -4" width="100" height="100" color="#7BC8A4"></a-plane>
     </a-scene>
-
-    <script>
-      // Get the cube and button elements
-      const cube = document.querySelector('#cube');
-      const button = document.querySelector('#button');
-
-      // Add event listener for button click to change cube color
-      button.addEventListener('click', function () {
-        cube.setAttribute('color', '#'+Math.floor(Math.random()*16777215).toString(16)); // Random color
-      });
-    </script>
 ```   
 * Allow the camera to move while making it colorful.
-* I’ve been trying to add JavaScript to make it colorful, but it fails a lot of the time.
-* I wonder if I will use this in a game.
+* I’ve been trying to make it brighter to make it colorful, but it fails a lot of the time.
+* I wonder if I will use this in a horror game.
 * I’d like to try creating a scene that looks like a foggy forest.
 <!-- 
 * Links you used today (websites, videos, etc)
