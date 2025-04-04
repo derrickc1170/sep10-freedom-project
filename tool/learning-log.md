@@ -12,8 +12,8 @@
   * The Challenge that I faced was that the arm and rotation wasn't working.
   * Next Step
     * Finishing All video on Afrmae.
-    * <a href="https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce">Video<a> 
-  
+    * <a href="https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce">Video<a>
+
 
 ### 2/26/25:
 * Here Some Code that I make in my Model.
@@ -26,10 +26,10 @@
 <a-scene>
   <!-- Light -->
   <a-light position="2 4 -3" intensity="1"></a-light>
-  
+
   <!-- Camera -->
   <a-camera position="0 1.6 3"></a-camera>
-  
+
   <!-- Box Object -->
   <a-box position="0 1 -5" color="blue" width="2" height="2" depth="2"></a-box>
 </a-scene>
@@ -40,7 +40,7 @@
 
 ### 3/18/25
 * Creating area where it illuminate the scene
-* You find this A-Frame's Official documentation which provide lot of example 
+* You find this A-Frame's Official documentation which provide lot of example
 [here](https://aframe.io/docs/1.7.0/introduction/)
 ```html
 <a-scene>
@@ -53,12 +53,16 @@
       <!-- Ground -->
       <a-plane rotation="-90 0 0" position="0 0 -4" width="100" height="100" color="#7BC8A4"></a-plane>
     </a-scene>
-```   
+```
 * Allow the camera to move while making it colorful.
 * I’ve been trying to make it brighter to make it colorful, but it fails a lot of the time.
 * I wonder if I will use this in a horror game.
 * I’d like to try creating a scene that looks like a foggy forest.
-<!-- 
+### 3/27/25
+* Today I going do 
+*
+
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
