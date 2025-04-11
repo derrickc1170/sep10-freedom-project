@@ -4,6 +4,8 @@
 <p>Today In Sep 10,I am going showcase What i make from aframe.Aframe I gave myself 4 day to compeleted a project which it is really short to finish.</p> <p>Doing this during these 4 day will make learn about of my learning tool and show how I use aframe.</p>
 
 ### Code
+<p>This is on 1 day</p>
+<p>This is after 4 day</p>
 
 ```html
 <!DOCTYPE html>
@@ -54,7 +56,7 @@
       <!-- Ambient lighting for spooky effect -->
       <a-light type="ambient" intensity="0.3" position="0 10 0"></a-light>
 
-      <!-- Creepy sound effects -->
+      <!-- Creepy sound effects(No Sound) -->
       <a-sound src="url(spooky_sound.mp3)" autoplay="true" loop="true" volume="0.7" position="0 3 -4"></a-sound>
 
       <!-- Interactive box that changes when clicked -->
@@ -68,6 +70,8 @@
   </body>
 </html>
 ```
+<p>This what it can do.</p>
+
 ### Source
 
 ### Takeaway
