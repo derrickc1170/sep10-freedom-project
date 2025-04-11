@@ -5,6 +5,8 @@
 
 ### Code
 <p>This is on 1 day</p>
+```html
+```
 <p>This is after 4 day</p>
 
 ```html
@@ -70,14 +72,17 @@
   </body>
 </html>
 ```
-<p>This what it can do.</p>
+<p>This what it can do.</p><p>Some of problem was that model wasn't working and when I try to add model,it would be still be block.</p>
 
 ### Source
+Aframe:[here](https://aframe.io/docs/1.7.0/introduction/)
+Lighting:[here](https://aframe.io/docs/1.7.0/components/light.html#main)
+Fog:[here](https://aframe.io/docs/1.7.0/components/fog.html#main)
+Camera:[here](https://aframe.io/docs/1.7.0/components/camera.html#main)
+Background:[here](https://aframe.io/docs/1.7.0/primitives/a-sky.html#main)
+### Skill
 
 ### Takeaway
-
-### Skill
-Text
 
 [Previous](entry04.md) | [Next](entry06.md)
 
