@@ -1,7 +1,8 @@
 # Entry 5
 ##### 4/11/24
 ### Context
-<p>Today In Sep 10,I am going showcase What i make from aframe.I gave myself 4 day to compeleted a project which it is really short to finish.</p>Then I going
+<p>Today In Sep 10,I am going showcase What i make from aframe.I gave myself 4 day to compeleted a project which it is really short to finish.</p><p>Doing this will make learn about of my learning tool.
+
 ### Code
 
 ```html
@@ -24,7 +25,7 @@
 
       <!-- Add lighting for a creepy atmosphere -->
       <a-light type="directional" intensity="0.4" position="5 5 5"></a-light>
-      <a-light type="point" color="#ff0000" intensity="0.8" position="0 2 0" 
+      <a-light type="point" color="#ff0000" intensity="0.8" position="0 2 0"
                 animation="property: intensity; to: 0; dir: alternate; dur: 300; loop: true"></a-light>
 
       <!-- Add ground (dark floor) -->
@@ -56,7 +57,7 @@
       <a-sound src="url(spooky_sound.mp3)" autoplay="true" loop="true" volume="0.7" position="0 3 -4"></a-sound>
 
       <!-- Interactive box that changes when clicked -->
-      <a-box position="0 2 -5" width="3" height="3" depth="3" color="#222" shadow="true" 
+      <a-box position="0 2 -5" width="3" height="3" depth="3" color="#222" shadow="true"
              event-set__click="scale: 1.5 1.5 1.5; color: #ff0000"></a-box>
 
       <!-- Add a camera with movement and look controls -->
