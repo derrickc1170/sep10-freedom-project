@@ -1,7 +1,7 @@
 # Entry 5
-##### 4/11/24
+##### 4/11/25
 ### Context
-<p>Today In Sep 10,I am going showcase What i make from aframe.I gave myself 4 day to compeleted a project which it is really short to finish.</p><p>Doing this will make learn about of my learning tool.
+<p>Today In Sep 10,I am going showcase What i make from aframe.Aframe I gave myself 4 day to compeleted a project which it is really short to finish.</p> <p>Doing this during these 4 day will make learn about of my learning tool and show how I use aframe.</p>
 
 ### Code
 
@@ -32,19 +32,20 @@
       <a-plane position="0 0 -5" rotation="-90 0 0" width="50" height="50" color="#333333" shadow="true"></a-plane>
       <a-plane position="0 30 -10" rotation="-90 0 90" width="50" height="50" color="#333333" shadow="true"></a-plane>
 
-      <!-- Creepy box and sphere objects -->
+      <!-- Creepy box and objects -->
       <a-box position="-5 2 -10" width="2" height="4" depth="2" color="#333" shadow="true"></a-box>
       <a-box position="-9 2 -10" width="2" height="4" depth="2" color="#333" shadow="true"></a-box>
-      <a-sphere position="3 2 -7" radius="1.5" color="#ffff" shadow="true"></a-sphere>
-      <a-sphere position="3 2.1 -6.35" radius="1" color="#555" shadow="true"></a-sphere>
-      <a-sphere position="3 2.25 -5.8" radius="0.5" color="#ffff" shadow="true"></a-sphere>
       <a-box position="5 2 -10" width="2" height="4" depth="2" color="#333" shadow="true"></a-box>
       <a-box position="10 2 -10" width="2" height="4" depth="2" color="#333" shadow="true"></a-box>
       <a-box position="10 2 1" rotation="-0 20 180" width="20" height="4" depth="2" color="#333" shadow="true"></a-box>
       <a-box position="-10 2 6d" rotation="-0 20 180" width="20" height="4" depth="2" color="#333" shadow="true"></a-box>
       <a-box position="-10 2 -3" rotation="-0 30 180" width="20" height="4" depth="2" color="#333" shadow="true"></a-box>
       <a-box position="-12 2 6" rotation="-0 0 180" width="20" height="4" depth="2" color="#333" ></a-box>
-      <!-- Haunted tree-->
+      <!--Eye-->
+      <a-sphere position="3 2 -7" radius="1.5" color="#ffff" shadow="true"></a-sphere>
+      <a-sphere position="3 2.1 -6.35" radius="1" color="#555" shadow="true"></a-sphere>
+      <a-sphere position="3 2.25 -5.8" radius="0.5" color="#ffff" shadow="true"></a-sphere>
+      <!-- Haunted tree(No Model)-->
       <a-entity gltf-model="url(spooky_tree.gltf)" position="0 0 -15" scale="1 1 1" rotation="0 0 0"></a-entity>
 
       <!-- Fog for mystery -->
@@ -67,6 +68,11 @@
   </body>
 </html>
 ```
+### Source
+
+### Takeaway
+
+### Skill
 Text
 
 [Previous](entry04.md) | [Next](entry06.md)
