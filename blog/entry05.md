@@ -7,8 +7,67 @@ Working on this over the 4 days helped me learn a lot about the tools I'm using 
 
 ### Code
 #### Day 1
+```html
+<!-- Basic setup with a sky, a box, and a ground plane. Just testing if A-Frame works. -->
+<a-scene>
+  <a-sky color="#ECECEC"></a-sky>
+  <a-box position="0 1 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+  <a-plane position="0 0 -4" rotation="-90 0 0" width="10" height="10" color="#7BC8A4"></a-plane>
+  <a-camera position="0 1.6 0"></a-camera>
+</a-scene>
+```
+#### Day 2 
+```html
+<!-- Started building a darker mood with lights and sky changes. Experimented with fog and basic layout. -->
+<a-scene fog="type: linear; color: #222; near: 1; far: 30">
+  <a-sky color="#0f0f0f"></a-sky>
 
-<!-- (Nothing yet – just getting started!) -->
+  <!-- Ambient + point lighting for creepy vibe -->
+  <a-light type="ambient" intensity="0.3"></a-light>
+  <a-light type="point" intensity="0.8" color="#ff0000" position="0 2 -4"></a-light>
+
+  <!-- Basic walls/structure with boxes -->
+  <a-box position="2 1 -5" width="1" height="2" depth="1" color="#444"></a-box>
+  <a-box position="-2 1 -5" width="1" height="2" depth="1" color="#444"></a-box>
+
+  <!-- Ground -->
+  <a-plane position="0 0 -5" rotation="-90 0 0" width="20" height="20" color="#333"></a-plane>
+
+  <a-camera position="0 1.6 0"></a-camera>
+</a-scene>
+```
+<p>In Day 2, I focused on giving the scene a darker, horror-like vibe. I added fog for atmosphere and experimented with lighting. I also started placing boxes as placeholders for walls or creepy objects.</p>
+
+#### Day 3
+
+```html
+<!-- Added interactivity and started testing models and audio. -->
+<a-scene fog="type: exponential; color: #222; near: 5; far: 25">
+  <a-sky color="#0f0f0f"></a-sky>
+
+  <!-- Lights -->
+  <a-light type="ambient" intensity="0.3"></a-light>
+  <a-light type="point" color="#ff0000" intensity="0.8" position="0 2 0"
+           animation="property: intensity; to: 0; dir: alternate; dur: 300; loop: true"></a-light>
+
+  <!-- Interactive box -->
+  <a-box position="0 2 -5" width="3" height="3" depth="3" color="#222"
+         event-set__click="scale: 1.5 1.5 1.5; color: #ff0000"></a-box>
+
+  <!-- Haunted model (not loading yet) -->
+  <a-entity gltf-model="url(spooky_tree.gltf)" position="0 0 -10" scale="1 1 1"></a-entity>
+
+  <!-- Ambient sound (still debugging) -->
+  <a-sound src="url(spooky_sound.mp3)" autoplay="true" loop="true" volume="0.5" position="0 2 -3"></a-sound>
+
+  <!-- Ground -->
+  <a-plane position="0 0 -5" rotation="-90 0 0" width="30" height="30" color="#111"></a-plane>
+
+  <a-camera position="0 1.6 0"></a-camera>
+</a-scene>
+```
+<p>On Day 3, I added an interactive box that changes when clicked and tried loading a haunted tree model (which didn’t display right). I also added sound, though it didn’t play—probably a file or browser issue. Overall, I started layering in the “spooky” details.</p>
+
 #### Day 4 – Final Version
 
 ```html
@@ -75,7 +134,7 @@ Working on this over the 4 days helped me learn a lot about the tools I'm using 
 ```
 
 #### What It Can Do
-<p>This VR scene creates a spooky horror environment with creepy lights, fog, and an eerie vibe. I also added interactive elements like a box that changes when clicked, and attempted to load a haunted tree model and some sound.</p>
+<p>This VR scene creates a spooky horror environment with creepy lights, fog, and an eerie vibe. I also added interactive elements like a box that changes when clicked, and attempted try fix to load a haunted tree model and some sound.(Still Didn't Work) It looked like dark maze that have red light flashing which it is little bit scary and have a eyeball.</p>
 
 Some problems I ran into:
 
@@ -84,21 +143,21 @@ Some problems I ran into:
 * `The spooky sound effect didn't play (probably due to file path or browser permissions).`
 
 ### Source
-Aframe:[here](https://aframe.io/docs/1.7.0/introduction/)
+* `Aframe:`[here](https://aframe.io/docs/1.7.0/introduction/)
 
-Lighting:[here](https://aframe.io/docs/1.7.0/components/light.html#main)
+* `Lighting:`[here](https://aframe.io/docs/1.7.0/components/light.html#main)
 
-Fog:[here](https://aframe.io/docs/1.7.0/components/fog.html#main)
+* `Fog:`[here](https://aframe.io/docs/1.7.0/components/fog.html#main)
 
-Camera:[here](https://aframe.io/docs/1.7.0/components/camera.html#main)
+* `Camera:`[here](https://aframe.io/docs/1.7.0/components/camera.html#main)
 
-Background:[here](https://aframe.io/docs/1.7.0/primitives/a-sky.html#main)
+* `Background:`[here](https://aframe.io/docs/1.7.0/primitives/a-sky.html#main)
 ### Skill:
 #### Googling
 * Googling was one of the most helpful things I did while working with A-Frame. Whenever I got stuck or didn’t know how to do something, I searched it on Google. Simple searches like “how to add light in A-Frame” or “how add sound in A-frame” gave me answers fast. I found useful tutorials, documentation, and examples that helped me understand what to do. Google helped me fix bugs, learn new things, and make my scene look better. It was like having a guide right there whenever I needed help
 
 #### Creativity
-* Creativity was a big part of working with A-Frame. I had to imagine what I wanted my 3D scene to look like and figure out how to make it happen. I thought about things like what kind of mood I wanted—spooky, fun, calm—and chose colors, lighting, and objects that matched that feeling. I also came up with ideas for how to make the scene more interesting, like adding fog, sound, or animations. Creativity helped me take a basic scene and turn it into something unique and fun to explore.
+* Creativity was a big part of working with A-Frame. I had to imagine what I wanted my 3D scene to look like and figure out how to make it happen. I thought about things like what kind of mood I wanted spooky, fun, calm and chose colors, lighting, and objects that matched that feeling. I also came up with ideas for how to make the scene more interesting, like adding fog, sound, or animations. Creativity helped me take a basic scene and turn it into something unique and fun to explore.
 
 ### Takeaway
 * <p>Even with just 4 days, I created a full VR scene with interactive elements. I learned how to use A-Frame’s core features, especially lighting and camera controls. While some features didn’t work as expected, I still learned a lot about 3D asset management and troubleshooting. Next time, I’ll give myself more time for testing models and adding polish.</p>
