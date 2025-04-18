@@ -85,9 +85,13 @@ Some problems I ran into:
 
 ### Source
 Aframe:[here](https://aframe.io/docs/1.7.0/introduction/)
+
 Lighting:[here](https://aframe.io/docs/1.7.0/components/light.html#main)
+
 Fog:[here](https://aframe.io/docs/1.7.0/components/fog.html#main)
+
 Camera:[here](https://aframe.io/docs/1.7.0/components/camera.html#main)
+
 Background:[here](https://aframe.io/docs/1.7.0/primitives/a-sky.html#main)
 ### Skill:
 #### Googling
