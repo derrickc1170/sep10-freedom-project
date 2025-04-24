@@ -1,15 +1,16 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/q2BTod)
+* [Desktop](https://wireframe.cc/cfbx8R)
 
 ## Colors
-* `#ABC123`
-
+* `##FF0000`
+* `#00000`
+* `#0000FF`
 ## Fonts
-* [Text](URL)
-
+* [Bruno Ace SC](https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap)
+* [
 ## Timeline
 
 #### MVP
