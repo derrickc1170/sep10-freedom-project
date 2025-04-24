@@ -15,6 +15,7 @@
 4/24-4/25 Add Bootstrap and Outline of the project.
 4/26-4/27 Add Most of Content
 4/27-4/29 Finish Most of Stuff
+4/30-5/3 Camping Trip(SO NO WORk)
 5/4-5/5 Fix Some Error
 5/5 Due Date
 #### MVP
