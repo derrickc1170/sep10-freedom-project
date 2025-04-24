@@ -10,7 +10,7 @@
 * `#0000FF`
 ## Fonts
 * [Bruno Ace SC](https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap)
-* [
+* [Fira Code]()
 ## Timeline
 4/24-4/25 Add Bootstrap and Outline of the project.
 4/26-4/27 Add Most of Content
