@@ -1,0 +1,46 @@
+.accordion {
+    background: white;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  .accordion-header {
+    padding: 15px 20px;
+    background: #f7f7f7;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    background: #fff;
+    transition: all 0.3s ease;
+  }
+  .accordion.open .accordion-content {
+    max-height: 200px; /* or auto with JS */
+    padding: 15px 20px;
+  }
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -10px;
+  }
+  .col {
+    padding: 10px;
+    flex: 1 0 100%; /* full width on mobile */
+  }
+  @media (min-width: 768px) {
+    .col-6 {
+      flex: 0 0 50%;
+    }
+    .col-4 {
+      flex: 0 0 33.333%;
+    }
+  }
