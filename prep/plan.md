@@ -8,16 +8,20 @@
 * `##FF0000`
 * `#00000`
 * `#0000FF`
+* `#93827F`
+* `#6BA292`
+* `#E0D2C3`
+* `#BCDB87`
+* `#35CE8D`
 ## Fonts
 * [Bruno Ace SC](https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap)
 * [Fira Code](https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bruno+Ace+SC&family=Fira+Code:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap")
 ## Timeline
-* `4/24-4/25 Add Bootstrap and Outline of the project.`
-* `4/26-4/27 Add Most of Content`
-* `4/27-4/29 Finish Most of Stuff`
-* `4/30-5/3 Camping Trip(SO NO WORk)`
-* `5/4-5/5 Fix Some Error`
-* `5/5 Due Date`
+* `4/24–4/25 Set up Bootstrap, build Desktop layout (Navbar, Hero Section, Footer). Use placeholders.`
+* `4/26–4/27 Add most content: text blocks, buttons, placeholder images, Carousel setup.`
+* `4/28–4/29 Finalize Desktop & Mobile views. Make it fully responsive. Adjust margins/paddings.`
+* `5/4	Test the site: fix mobile spacing, font issues, broken links.`
+* `5/5	Last review and submit Freedom Project.`
 #### MVP
 
 * Task/Timeline
@@ -28,7 +32,13 @@
 
 * Task
 
+* Add more Bootstrap components (e.g., Cards, Tabs).
 
+* Smooth scroll to sections.
+
+* Optimize images for faster loading.
+
+* Polish all hover states and button animations.
 
 
 
