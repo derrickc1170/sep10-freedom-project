@@ -44,3 +44,15 @@
       flex: 0 0 33.333%;
     }
   }
+  @media (min-width: 768px) {
+    .col-6 {
+      flex: 0 0 50%;
+    }
+    .col-4 {
+      flex: 0 0 33.333%;
+    }
+  }
+  .box {
+    width: 50% ;
+    max-height: 50% ;
+  }
