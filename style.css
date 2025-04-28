@@ -44,12 +44,12 @@
       flex: 0 0 33.333%;
     }
   }
-  @media (min-width: 768px) {
+  @media (min-width: 992px) {
     .col-6 {
-      flex: 0 0 50%;
+      flex: 0 0 75%;
     }
     .col-4 {
-      flex: 0 0 33.333%;
+      flex: 0 0 66.666%;
     }
   }
   .box {
