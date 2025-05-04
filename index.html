@@ -1,32 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Freedom Project</title>
 
-  <!-- Bootstrap 5 -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
   <!-- Bootstrap Icons -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
-
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
   <!-- A-Frame -->
   <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
-
-  <!-- Bruno Ace SC -->
-  <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap" rel="stylesheet">
-
-  <!-- Fira Code -->
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet" />
 
   <style>
     body {
       font-family: 'Bruno Ace SC', sans-serif;
+      margin: 0;
+      padding: 0;
     }
 
     code, pre {
       font-family: 'Fira Code', monospace;
+    }
+
+    .navbar-brand {
+      font-size: 1.5rem;
+    }
+
+    .hero .carousel-item {
+      height: 400px;
+    }
+
+    .hero .carousel-item > div {
+      height: 100%;
+    }
+
+    .aframe-container {
+      width: 100%;
+      height: 400px;
+      margin: 50px 0;
+    }
+
+    .card-style {
+      background: #f8f9fa;
+      border-radius: 10px;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      height: 100%;
+      margin-bottom: 20px;
     }
 
     footer {
@@ -36,22 +60,49 @@
       text-align: center;
     }
 
-    .accordion-button {
-      font-family: 'Bruno Ace SC', sans-serif;
+    footer img {
+      width: 80px;
+      margin-top: 10px;
     }
 
-    /* Make sure A-Frame scene is responsive */
-    .aframe-container {
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      .hero .carousel-item {
+        height: 250px;
+      }
+
+      .aframe-container {
+        height: 250px;
+      }
+
+      footer img {
+        width: 60px;
+      }
+
+      .card-style {
+        margin-bottom: 30px;
+      }
+
+      .navbar-brand {
+        font-size: 1.2rem;
+      }
+
+      .carousel h2 {
+        font-size: 1.25rem;
+        text-align: center;
+      }
+    }
+
+    .card-img {
       width: 100%;
-      height: 400px;
-      margin-top: 50px;
-      margin-bottom: 50px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 10px;
     }
   </style>
 </head>
 
 <body>
-
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
     <div class="container">
@@ -71,10 +122,9 @@
     </div>
   </nav>
 
-  <!-- Hero Section with Carousel -->
+  <!-- Hero Section -->
   <section class="hero p-0">
     <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
-
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active"></button>
         <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1"></button>
@@ -83,18 +133,22 @@
 
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <div class="d-flex align-items-center justify-content-center" style="height: 400px; background-color: #6BA292;">
-            <!-- You can replace this background color with an image -->
+          <div class="d-flex align-items-center justify-content-center bg-success-subtle">
+            <h2 class="text-white">Welcome to Future Cooking</h2>
+            <img src="../photo/chef.jpg" class="d-block w-100" alt="">
+
           </div>
         </div>
         <div class="carousel-item">
-          <div class="d-flex align-items-center justify-content-center" style="height: 400px; background-color: #35CE8D;">
-            <!-- You can replace this background color with an image -->
+          <div class="d-flex align-items-center justify-content-center bg-primary-subtle">
+            <h2 class="text-white">Revolutionizing Food Tech</h2>
+            <img src="../photo/food.jpg" class="d-block w-100" alt="">
           </div>
         </div>
         <div class="carousel-item">
-          <div class="d-flex align-items-center justify-content-center" style="height: 400px; background-color: #BCDB87;">
-            <!-- You can replace this background color with an image -->
+          <div class="d-flex align-items-center justify-content-center bg-warning-subtle">
+            <h2 class="text-white">Sustainability & Innovation</h2>
+            <img src="../photo/rice.jepg" class="d-block w-100" alt="">
           </div>
         </div>
       </div>
@@ -105,140 +159,96 @@
       <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
         <span class="carousel-control-next-icon"></span>
       </button>
-
     </div>
   </section>
-  <h2>Context</h2>
-<!-- A-Frame VR Section -->
-<section class="aframe-container">
-  <a-scene embedded cursor="rayOrigin: mouse">
 
-    <!-- Interactive box -->
-    <a-box position="-1 1.5 -3" rotation="0 45 0" color="#4CC3D9"
-           animation__click="property: rotation; to: 0 405 0; startEvents: click; dur: 1000"></a-box>
+  <!-- A-Frame Section -->
+  <section class="aframe-container">
+    <a-scene embedded cursor="rayOrigin: mouse">
 
-    <!-- Interactive sphere -->
-    <a-sphere position="0 1.5 -5" radius="1.25" color="#EF2D5E"
-              animation="property: rotation; to: 0 360 0; loop: true; dur: 5000"></a-sphere>
+      <!-- Floor -->
+      <a-plane position="0 0 -5" rotation="-90 0 0" width="10" height="10" color="#cccccc"></a-plane>
 
-    <!-- Cylinder that rotates when clicked -->
-    <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"
-                animation__click="property: scale; to: 1.5 1.5 1.5; startEvents: click; dur: 800"
-                animation="property: rotation; to: 0 360 0; loop: true; dur: 6000"></a-cylinder>
+      <!-- Walls -->
+      <a-box position="0 2.5 -10" width="10" height="5" depth="0.1" color="#f0e6d2"></a-box> <!-- Back wall -->
+      <a-box position="-5 2.5 -5" width="0.1" height="5" depth="10" color="#f0e6d2"></a-box> <!-- Left wall -->
+      <a-box position="5 2.5 -5" width="0.1" height="5" depth="10" color="#f0e6d2"></a-box> <!-- Right wall -->
+      <a-box position="0 5 -5" width="10" height="0.1" depth="10" color="#dddddd"></a-box> <!-- Ceiling -->
 
-    <!-- Ground -->
-    <a-plane position="0 0 -4" rotation="-90 0 0" width="8" height="8" color="#7BC8A4"></a-plane>
+      <!-- Kitchen Items -->
+      <a-box position="-2 1 -6" width="2" height="1" depth="1" color="#8B4513"></a-box> <!-- Kitchen counter -->
+      <a-box position="0 1 -6" width="1" height="1.5" depth="1" color="#aaa"></a-box> <!-- Fridge -->
+      <a-box position="2 0.75 -6" width="1.5" height="0.5" depth="1" color="#555"></a-box> <!-- Stove -->
+      <a-cylinder position="2 1.2 -6" radius="0.1" height="0.1" color="red"></a-cylinder> <!-- Pot on stove -->
 
-    <!-- Teleport Controls -->
-    <a-entity id="rig" movement-controls="fly: true">
-      <a-entity camera position="0 1.6 0" look-controls></a-entity>
-    </a-entity>
+      <!-- Table -->
+      <a-box position="0 0.75 -3" width="2" height="0.1" depth="1" color="#deb887"></a-box> <!-- Table top -->
+      <a-cylinder position="-0.8 0.375 -2.6" radius="0.05" height="0.75" color="#654321"></a-cylinder>
+      <a-cylinder position="0.8 0.375 -2.6" radius="0.05" height="0.75" color="#654321"></a-cylinder>
+      <a-cylinder position="-0.8 0.375 -3.4" radius="0.05" height="0.75" color="#654321"></a-cylinder>
+      <a-cylinder position="0.8 0.375 -3.4" radius="0.05" height="0.75" color="#654321"></a-cylinder>
 
-    <a-sky color="#ECECEC"></a-sky>
+      <!-- Lighting -->
+      <a-light type="ambient" color="#ffffff" intensity="0.5"></a-light>
+      <a-light type="point" intensity="1" position="0 4 -5" color="#fff"></a-light>
 
-  </a-scene>
-</section>
-  <!-- Content Section -->
-  <img src="./photo/wasten.png">
-  <span class="badge rounded-pill text-bg-primary">Help For Food Waste</span>
+      <!-- Camera Rig -->
+      <a-entity id="rig" movement-controls="fly: true">
+        <a-entity camera position="0 1.6 0" look-controls></a-entity>
+      </a-entity>
+
+      <!-- Sky -->
+      <a-sky color="#ECECEC"></a-sky>
+
+    </a-scene>
+  </section>
+
+  <!-- Feature Cards -->
   <section class="py-5">
-  <div class="container">
-    <div class="row g-4 text-center">
-
-      <div class="col-md-4">
-        <div class="p-4 bg-light rounded shadow-lg">
-          <div class="accordion" id="accordion1">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne1">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">
-                  <i class="bi bi-heart-fill me-2"></i>Item
-                </button>
-              </h2>
-              <div id="collapseOne1" class="accordion-collapse collapse show" aria-labelledby="headingOne1" data-bs-parent="#accordionExample1">
-                <div class="accordion-body">
-                  <p>I came up with an item for people who are poor and need nutritious food. So I created New Cooking Technologies called "Recombinator." The Recombinator is a device that can recombine basic ingredients or molecules. It can customize food based on taste or nutritional needs, offering sustainable and waste-free solutions for feeding populations, especially in challenging environments like space.</p>
-                </div>
-              </div>
-            </div>
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-12 col-md-4">
+          <div class="card-style">
+            <img src="./photo/wasten.png" alt="Recombinator" class="card-img">
+            <h4><i class="bi bi-heart-fill me-2"></i>Recombinator</h4>
+            <p>I came up with an item for people who are poor and need nutritious food. So I created New Cooking Technologies called "Recombinator." The Recombinator is a device that can recombine basic ingredients or molecules. It can customize food based on taste or nutritional needs, offering sustainable and waste-free solutions for feeding populations, especially in challenging environments like space.</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="card-style">
+            <img src="./photo/Printer.png" alt="Printer Cooking Station" class="card-img">
+            <h4><i class="bi bi-cup-fill me-2"></i>Printer Cooking Station</h4>
+            <p>What if you were stuck in the middle of nowhere, lazy to cook anything, or too poor to get food? Introducing the "Printer Cooking Station"! The Printer Cooking Station is a cutting-edge device that uses 3D printing to simplify and customize meal preparation. It automates tasks like measuring, assembling, and presenting dishes, offering endless possibilities for creative and efficient cooking.</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="card-style">
+            <img src="Shop.png" alt="Digital Item Website" class="card-img">
+            <h4><i class="bi bi-cart-fill me-2"></i>Digital Item Website</h4>
+            <p>What if you were stuck in the middle of nowhere, lazy to cook anything, or too poor to get food? Introducing the "Printer Cooking Station"! The Printer Cooking Station is a cutting-edge device that uses 3D printing to simplify and customize meal preparation. It automates tasks like measuring, assembling, and presenting dishes, offering endless possibilities for creative and efficient cooking.</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="card-style">
+            <img src="./photo/katanan" alt="Neet Cut" class="card-img">
+            <h4><i class="bi bi-cart-fill me-2"></i>Neet Cut</h4>
+            <p>Anything that needs help to be cut? Well, I offer a solution for you: "The Auto Cutter". The Auto Cutter is a versatile, automatic tool that cuts anything from soft fruits to tough meats. It offers customizable cut sizes and shapes, and works with any available power source, ensuring flexibility and efficiency for various applications.</p>
           </div>
         </div>
       </div>
-      <img src="./photo/Printer.png">
-      <div class="col-md-4">
-        <div class="p-4 bg-light rounded shadow-lg">
-          <div class="accordion" id="accordion2">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne2">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne2" aria-expanded="false" aria-controls="collapseOne2">
-                  <i class="bi bi-cup-fill me-2"></i>Using For Vacation
-                </button>
-              </h2>
-              <div id="collapseOne2" class="accordion-collapse collapse" aria-labelledby="headingOne2" data-bs-parent="#accordionExample2">
-                <div class="accordion-body">
-                  <p>What if you were stuck in the middle of nowhere, lazy to cook anything, or too poor to get food? Introducing the "Printer Cooking Station"! The Printer Cooking Station is a cutting-edge device that uses 3D printing to simplify and customize meal preparation. It automates tasks like measuring, assembling, and presenting dishes, offering endless possibilities for creative and efficient cooking.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <img src="./photo/Shop.png">
-      <div class="col-md-4">
-        <div class="p-4 bg-light rounded shadow-lg">
-          <div class="accordion" id="accordion3">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne3">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne3" aria-expanded="false" aria-controls="collapseOne3">
-                  <i class="bi bi-cart-fill me-2"></i>Fast Shopping
-                </button>
-              </h2>
-              <div id="collapseOne3" class="accordion-collapse collapse" aria-labelledby="headingOne3" data-bs-parent="#accordio4">
-                <div class="accordion-body">
-                  <p>Want any item that appears to you without waiting for shipping? The Digital Item Website allows users to spawn purchased items into compatible devices or applications, making digital content instantly accessible. With a user-friendly interface and secure transactions, it offers a seamless experience for exploring, acquiring, and utilizing digital content.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <img src="./photo/katanan.png">
-      <!-- Updated Duplicate ID issue here -->
-      <div class="col-md-4">
-        <div class="p-4 bg-light rounded shadow-lg">
-          <div class="accordion" id="accordionExample4">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne4">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne4" aria-expanded="false" aria-controls="collapseOne4">
-                  <i class="bi bi-scissors me-2"></i>Need Cut
-                </button>
-              </h2>
-              <div id="collapseOne4" class="accordion-collapse collapse" aria-labelledby="headingOne4" data-bs-parent="#accordionExample4">
-                <div class="accordion-body">
-                  <p>Anything that needs help to be cut? Well, I offer a solution for you: "The Auto Cutter". The Auto Cutter is a versatile, automatic tool that cuts anything from soft fruits to tough meats. It offers customizable cut sizes and shapes, and works with any available power source, ensuring flexibility and efficiency for various applications.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
     </div>
-  </div>
-</section>
-
-
+  </section>
 
   <!-- Footer -->
   <footer>
     <div class="container">
       <p>&copy; 2025 Derrick Chen, All rights reserved.</p>
-      <img id="box" src="logo.png">
+      <img src="./photo/logo.png" alt="Logo" />
     </div>
   </footer>
 
-  <!-- Bootstrap JS Bundle -->
+  <!-- Bootstrap Bundle JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-
 </body>
 </html>
 
