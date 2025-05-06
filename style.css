@@ -118,7 +118,7 @@
   text-align: center;
 }
 
-.footer .img {
+.footer .d-block w-100 {
   width: 80px;
   margin-top: 10px;
 }
