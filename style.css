@@ -42,7 +42,7 @@ footer {
   text-align: center;
 }
 
-footer img {
+.footer .img {
   width: 80px;
   margin-top: 10px;
 }
@@ -133,7 +133,7 @@ footer img {
     height: 250px;
   }
 
-  footer img {
+  .footer .img {
     width: 60px;
   }
 
