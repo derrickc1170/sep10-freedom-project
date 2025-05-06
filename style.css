@@ -35,7 +35,7 @@
   margin-bottom: 20px;
 }
 
-footer {
+.footer {
   background-color: #93827F;
   color: white;
   padding: 20px 0;
@@ -74,13 +74,13 @@ footer {
     text-align: center;
   }
 }
-body {
+.body {
   font-family: 'Bruno Ace SC', sans-serif;
   margin: 0;
   padding: 0;
 }
 
-code, pre {
+.code, .pre {
   font-family: 'Fira Code', monospace;
 }
 
@@ -92,7 +92,7 @@ code, pre {
   height: 400px;
 }
 
-.hero .carousel-item > div {
+.hero .carousel-item > .div {
   height: 100%;
 }
 
@@ -111,14 +111,14 @@ code, pre {
   margin-bottom: 20px;
 }
 
-footer {
+.footer {
   background-color: #93827F;
   color: white;
   padding: 20px 0;
   text-align: center;
 }
 
-footer img {
+.footer .img {
   width: 80px;
   margin-top: 10px;
 }
