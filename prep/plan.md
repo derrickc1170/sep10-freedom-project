@@ -49,9 +49,9 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
-|   |   |
-|   |   |
+|  Darren |  Nice original concepts like the "Recombinator" | The 3D scene on aframe might not work optimally on smaller devices.
+| Jintain  | Clean layout with good spacing and colors  | Consider improving contrast in the carousel text.
+|  Damaris | Good use of media queries for mobile adjustments. | Grammar and clarity issues in descriptions could be revised
 |   |   |
 |   |   |
 |   |   |
