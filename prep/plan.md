@@ -32,11 +32,11 @@
 
 * Task
 
-* Add more Bootstrap components (e.g., Cards, Tabs).
+* add Accordion and fix it.
 
 * Smooth scroll to sections.
 
-* Optimize images for faster loading.
+* Move the image to the left, so it can be same as my wireframe.
 
 * Polish all hover states and button animations.
 
