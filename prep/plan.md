@@ -32,11 +32,11 @@
 
 * Task
 
-* Add more Bootstrap components (e.g., Cards, Tabs).
+* add Accordion and fix it.
 
 * Smooth scroll to sections.
 
-* Optimize images for faster loading.
+* Move the image to the left, so it can be same as my wireframe.
 
 * Polish all hover states and button animations.
 
@@ -49,9 +49,9 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
-|   |   |
-|   |   |
+|  Darren |  Nice original concepts like the "Recombinator" | The 3D scene on aframe might not work optimally on smaller devices.
+| Jintain  | Clean layout with good spacing and colors  | Consider improving contrast in the carousel text.
+|  Damaris | Good use of media queries for mobile adjustments. | Grammar and clarity issues in descriptions could be revised
 |   |   |
 |   |   |
 |   |   |
