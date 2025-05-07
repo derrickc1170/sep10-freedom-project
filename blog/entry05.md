@@ -1,7 +1,7 @@
 # Entry 5
 ##### 4/11/25
 Context
-Today is September 10, and I want to showcase what I built using A-Frame. I gave myself just 4 days to complete this VR project, which was a tight deadline, but it was a great way to challenge myself and explore A-Frame more deeply.
+Today is Sep 10, and I want to showcase what I built using A-Frame. I gave myself just 4 days to complete this VR project, which was a tight deadline, but it was a great way to challenge myself and explore A-Frame more deeply.
 
 Working on this over the 4 days helped me learn a lot about the tools I'm using and really pushed me to understand how A-Frame works.
 
