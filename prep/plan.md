@@ -30,20 +30,19 @@
 
 #### Beyond MVP
 
-* Task
+* Add and fix the Accordion
 
-* add Accordion and fix it.
+* Implement a functional accordion component.
 
-* Smooth scroll to sections.
+* Ensure it's accessible and mobile-friendly.
 
-* Move the image to the left, so it can be same as my wireframe.
+* Enable Smooth Scrolling
 
-* Polish all hover states and button animations.
+* Adjust layout so the image aligns with the left side, matching your wireframe.
 
+* Polish Hover States and Button Animations
 
-
-
-
+* Add subtle transitions for hover effects.
 
 
 
