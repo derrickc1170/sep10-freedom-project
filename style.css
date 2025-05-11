@@ -96,4 +96,17 @@ h4 {
     text-align: center;
   }
 }
+/* Button Hover Effects */
+button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+
+/* Card Hover Effects */
+.card-style:hover {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
 
