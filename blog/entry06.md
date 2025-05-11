@@ -3,7 +3,7 @@
 ## Context
 It's been a busy few weeks since I started building my website, and I'm finally wrapping up the project. My goal was to create a smooth, responsive layout using Bootstrap and A-Frame for interactive elements. Here's an overview of the key milestones, challenges, and solutions I encountered during this process.
 
-Code
+# Code
 #### 4/24–4/25: Set up Bootstrap, build Desktop layout (Navbar, Hero Section, Footer). Use placeholders.
 
 ```html
@@ -93,7 +93,9 @@ Code
   </section>
 ```
 <p>During these two days, I focused on setting up the core structure of my website using Bootstrap. I created a basic layout with a navigation bar, a hero section, and a footer. Placeholders were used for images, and I set up some simple Bootstrap classes to get the design rolling.</p>
+
 #### 4/26–4/27: Add most content: text blocks, buttons, placeholder images.
+
 html
 
 ```html
@@ -213,6 +215,7 @@ html
 </div>
 ```
 <p>Over the next two days, I added more detailed content to the site, including text blocks, buttons, and placeholder images. I also set up a simple Bootstrap carousel for the interactive element, which will later showcase some of the tech concepts I’m working on. This gave the page more structure and interactivity, even if it’s still using placeholders for now.</p>
+
 #### 4/28–4/29: Finalize Desktop & Mobile views. Make it fully responsive. Adjust margins/paddings.
 
 ```html
@@ -598,12 +601,14 @@ html
 </html>
 ```
 # Source
-* `Bootstrap`
-* :Accordion
-* Navbar
-* Carousel
-* `A-Frame`
+* `Bootstrap`:[here](https://getbootstrap.com/)
+* `Accordion`:[here](https://getbootstrap.com/docs/5.3/migration/#accordion)
+* `Navbar`:[here](https://getbootstrap.com/docs/5.3/components/scrollspy/#navbar)
+* `Carousel`:[here](https://getbootstrap.com/docs/5.3/components/carousel/#how-it-works)
+* `A-Frame`:[here](https://aframe.io/docs/1.7.0/introduction/)
 * `Wireframe`
+* `Mobile`:[here](https://wireframe.cc/q2BTod)
+* `Desktop`:[here](https://wireframe.cc/cfbx8R)
 
 # Skill:
 ## Time Management
