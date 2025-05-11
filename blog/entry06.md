@@ -600,15 +600,16 @@ html
 </body>
 </html>
 ```
+# Engineering Design Process
+I’m currently finalizing all the content for the website as part of my engineering design process. This involves refining text, optimizing images, and ensuring a user-friendly layout to enhance the overall user experience and functionality.
 # Source
 * `Bootstrap`:[here](https://getbootstrap.com/)
 * `Accordion`:[here](https://getbootstrap.com/docs/5.3/migration/#accordion)
 * `Navbar`:[here](https://getbootstrap.com/docs/5.3/components/scrollspy/#navbar)
 * `Carousel`:[here](https://getbootstrap.com/docs/5.3/components/carousel/#how-it-works)
 * `A-Frame`:[here](https://aframe.io/docs/1.7.0/introduction/)
-* `Wireframe`
-* `Mobile`:[here](https://wireframe.cc/q2BTod)
-* `Desktop`:[here](https://wireframe.cc/cfbx8R)
+* `Wireframe Mobile`:[here](https://wireframe.cc/q2BTod)
+* `Wireframe Desktop`:[here](https://wireframe.cc/cfbx8R)
 
 # Skill:
 ## Time Management
