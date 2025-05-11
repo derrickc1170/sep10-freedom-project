@@ -1,18 +1,21 @@
-.body {
+/* Global Styles */
+body {
   font-family: 'Bruno Ace SC', sans-serif;
   margin: 0;
   padding: 0;
   background-color: lightblue;
 }
 
-.code, .pre {
+code, pre {
   font-family: 'Fira Code', monospace;
 }
 
+/* Navbar */
 .navbar-brand {
   font-size: 1.5rem;
 }
 
+/* Hero Section */
 .hero .carousel-item {
   height: 400px;
 }
@@ -20,28 +23,40 @@
 .hero .carousel-item > .div {
   height: 100%;
 }
-.h4 {
+
+/* Headings */
+h4 {
   font-family: "Space Grotesk", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400; /* Adjust to appropriate weight */
   font-style: normal;
-
 }
+
+/* A-Frame Section */
 .aframe-container {
   width: 100%;
   height: 400px;
   margin: 50px 0;
 }
 
+/* Feature Cards */
 .card-style {
   background: #f8f9fa;
   border-radius: 10px;
   padding: 2rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   height: 100%;
   margin-bottom: 20px;
 }
 
+.card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* Footer */
 .footer {
   background-color: #93827F;
   color: white;
@@ -76,94 +91,9 @@
     font-size: 1.2rem;
   }
 
-  .carousel .h2 {
-    font-size: 1.25rem;
-    text-align: center;
-  }
-}
-.body {
-  font-family: 'Bruno Ace SC', sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-.code, .pre {
-  font-family: 'Fira Code', monospace;
-}
-
-.navbar-brand {
-  font-size: 1.5rem;
-}
-
-.hero .carousel-item {
-  height: 400px;
-}
-
-.hero .carousel-item > .div {
-  height: 100%;
-}
-
-.aframe-container {
-  width: 100%;
-  height: 400px;
-  margin: 50px 0;
-}
-
-.card-style {
-  background: #f8f9fa;
-  border-radius: 10px;
-  padding: 2rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  height: 100%;
-  margin-bottom: 20px;
-}
-
-.footer {
-  background-color: #93827F;
-  color: white;
-  padding: 20px 0;
-  text-align: center;
-}
-
-.footer .img {
-  width: 80px;
-  margin-top: 10px;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  .hero .carousel-item {
-    height: 250px;
-  }
-
-  .aframe-container {
-    height: 250px;
-  }
-
-  .footer .img {
-    width: 30px;
-  }
-
-  .card-style {
-    margin-bottom: 30px;
-  }
-
-  .navbar-brand {
-    font-size: 1.2rem;
-  }
-
-  .carousel .h2 {
+  .carousel h2 {
     font-size: 1.25rem;
     text-align: center;
   }
 }
 
-.card-img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 10px;
-}
-.body {
-  background-color: lightblue;
-}
