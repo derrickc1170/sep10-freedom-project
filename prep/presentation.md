@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* How will you introduce your project in a captivationg way?
 
 ## Product
-* 
+* How will you show off what you make?
 
 ## Process
-* 
+* How will you show us how you make it?
 
 ## Conclusion
-* 
+* Takeaway/Summaize/wrap my thought.
 
 <!-- EXAMPLE
 
