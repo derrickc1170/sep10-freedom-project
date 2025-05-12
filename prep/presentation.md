@@ -2,15 +2,15 @@
 
 ## Hook
 * How will you introduce your project in a captivationg way?
-  I would maybe give a story how I enjoy cooking.
+* I would maybe give a story how I enjoy cooking.
 
 ## Product
 * How will you show off what you make?
-  By Showing website and what I have.
+* By Showing website and what I have.
 
 ## Process
 * How will you show us how you make it?
-  Using my blog to explain how I make these.
+* Using my blog to explain how I make these.
 
 ## Conclusion
 * Takeaway/Summaize/wrap my thought.
