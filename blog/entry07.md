@@ -1,5 +1,6 @@
 # Entry 7
-##### X/X/XX
+##### 5/20/25
+Today I am presenting hwat I have learn about after I present my freedom project ot my class.
 
 Text
 
