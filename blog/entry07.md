@@ -4,7 +4,9 @@
 Today I am presenting hwat I have learn about after I present my freedom project ot my class and expo.
 
 ### Class Presention
-In Class, I present my project in front of my class.I present my project which it is about cooking.I talked how my project include 4 invention and talked the problem I faced and 
+<p>In Class, I present my project in front of my class.I present my project which the website is about cooking.</p>
+<p>I talked how my project include 4 invention can help benefit and talked the problem I faced makinhg my project.</p>
+
 
 ### Expo Presention
 
