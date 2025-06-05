@@ -27,6 +27,10 @@ I’ve completed my website as part of the engineering design process, finalizin
 https://docs.google.com/presentation/d/1XudTXn1mK2YmGlp3EvvYRWNM_aZxjj2JPfpKs6YffIs/edit?usp=sharing
 https://docs.google.com/document/d/1yl2N-pLQ5VdmG-8factkbm7xqs_NN6-OLWLBsJMAD6E/edit?usp=sharing
 ### Skill
+## Being able to explain my ideas clearly.
+<p>Even though I forgot some lines, I still managed to talk about my project and what it was about.I explained the judge about purpose of my cooking website and how the four inventions could help people. This helped the audience understand what I was trying to do, even if I didn’t say everything perfectly.</p>
+## Being Calm under pressure.
+<p>Another skill that helped was staying calm under pressure. I was really nervous, especially at the Expo, but I still got through the presentation with stuttering and try my best to be confident in this situation.</p>
 
 
 
