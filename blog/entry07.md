@@ -24,8 +24,8 @@ Today I am presenting what I have learn about after I present my freedom project
 ### EDP
 I’ve completed my website as part of the engineering design process, finalizing the content, optimizing images, and creating a user-friendly layout to enhance both functionality and user experience.
 ### Source
-https://docs.google.com/presentation/d/1XudTXn1mK2YmGlp3EvvYRWNM_aZxjj2JPfpKs6YffIs/edit?usp=sharing
-https://docs.google.com/document/d/1yl2N-pLQ5VdmG-8factkbm7xqs_NN6-OLWLBsJMAD6E/edit?usp=sharing
+* `Presenation`:[here]https://docs.google.com/presentation/d/1XudTXn1mK2YmGlp3EvvYRWNM_aZxjj2JPfpKs6YffIs/edit?usp=sharing
+* `Elevator Pitch`:[here]https://docs.google.com/document/d/1yl2N-pLQ5VdmG-8factkbm7xqs_NN6-OLWLBsJMAD6E/edit?usp=sharing
 ### Skill
 ## Being able to explain my ideas clearly.
 <p>Even though I forgot some lines, I still managed to talk about my project and what it was about.I explained the judge about purpose of my cooking website and how the four inventions could help people. This helped the audience understand what I was trying to do, even if I didn’t say everything perfectly.</p>
