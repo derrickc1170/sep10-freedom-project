@@ -22,7 +22,7 @@ Today I am presenting what I have learn about after I present my freedom project
 
 
 ### EDP
-I’ve completed my website as part of the engineering design process, finalizing the content, optimizing images, and creating a user-friendly layout to enhance both functionality and user experience.
+I’ve completed my website as part of the engineering design process where it have my Part A and Part B.
 ### Source
 * `Presenation`: https://docs.google.com/presentation/d/1XudTXn1mK2YmGlp3EvvYRWNM_aZxjj2JPfpKs6YffIs/edit?usp=sharing
 * `Elevator Pitch`: https://docs.google.com/document/d/1yl2N-pLQ5VdmG-8factkbm7xqs_NN6-OLWLBsJMAD6E/edit?usp=sharing
